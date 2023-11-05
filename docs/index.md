@@ -1,13 +1,15 @@
 # Practicalli Software Engineering 
 
+![Software Engineering concept](https://raw.githubusercontent.com/practicalli/graphic-design/live/engineering-playbook/engineering-playbook-concept.png){align=right loading=lazy style="width:240px"}
+
 A practical guide to engineering practices and common tools for effective software development.
 
-!!! QUOTE
+!!! QUOTE "Quote: John Stevenson, Practicalli"
     **Effective Communication** is the fundamental challenge for all software engineering projects
 
-    John Stevenson, Practicalli
+!!! QUOTE "Quote: John Stevenson, Practicalli"
+    When a problem is well-defined in a language that everyone understands, it becomes far simpler to solve
 
-![Engineering Playbook concept](https://raw.githubusercontent.com/practicalli/graphic-design/live/engineering-playbook/engineering-playbook-concept.png)
 
 ??? HINT "Engineering Playbook Initiative"
     Establishing a playbook within an organisation encourages information sharing across teams and provides an effective way for disperate teams to learn from each other.
