@@ -10,6 +10,9 @@ A practical guide to engineering practices and common tools for effective softwa
 !!! QUOTE "Quote: John Stevenson, Practicalli"
     When a problem is well-defined in a language that everyone understands, it becomes far simpler to solve
 
+!!! QUOTE "Quote: John Stevenson, Practicalli"
+    **Overt** enthusiasm is to the detriment of pragmatism
+
 
 ??? HINT "Engineering Playbook Initiative"
     Establishing a playbook within an organisation encourages information sharing across teams and provides an effective way for disperate teams to learn from each other.
