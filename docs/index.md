@@ -29,7 +29,7 @@ A practical guide to engineering practices and common tools for effective softwa
 
 ## Discussions and feedback
 
-[Contributions are welcome via GitHub issues and pull requests](introduction/contributing.md)
+[Contributions are welcome via GitHub issues and pull requests](https://practical.li/contributing/)
 
 
 ## Navigate the book
