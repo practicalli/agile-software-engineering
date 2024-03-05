@@ -37,7 +37,7 @@ A practical guide to software development practices and tools.
 
 Issues and pull requests are most welcome although it is the maintainers discression as to if they are applicable.  Please detail issues as much as you can.  Pull requests are simpler to work with when they are specific to a page or at most a section.  The smaller the change the quicker it is to review and merge.
 
-Please read the [detailed contributing section of the book](https://practical.li/software-engineering/introduction/contributing/) before raising an issue or pull request to avoid disapointment.
+Please read the [detailed Practicalli contributing guide](https://practical.li/contributing/) before raising an issue or pull request to avoid disapointment.
 
 * [Current Issues](https://github.com/practicalli/software-engineering/issues)
 * [Current pull requests](https://github.com/practicalli/software-engineering/pulls)
