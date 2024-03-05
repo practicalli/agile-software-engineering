@@ -1,4 +1,4 @@
-# Practicalli Software Engineering 
+# Practicalli Software Engineering
 
 ![Software Engineering concept](https://raw.githubusercontent.com/practicalli/graphic-design/live/engineering-playbook/engineering-playbook-concept.png){align=right loading=lazy style="width:240px"}
 
@@ -24,7 +24,6 @@ A practical guide to engineering practices and common tools for effective softwa
 
 ??? WARNING "New Book - content under development"
     Practicalli Software Engineering was started in November 2023 in an attempt to codify the last few decades of development experience, so this will be an on-going work
-
 
 
 ## Discussions and feedback

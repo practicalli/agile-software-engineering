@@ -36,7 +36,6 @@ jobs:
             overrides
             .github
       - run: echo "🐙 Sparse Checkout of ${{ github.repository }} repository to the CI runner."
-
       # MegaLinter Configuration
       - name: MegaLinter Run
         id: ml
